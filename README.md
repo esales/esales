@@ -1,5 +1,5 @@
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esales)](https://github.com/esales/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esales&layout=compact)](https://github.com/esales/github-readme-stats) 
 <!--
 **esales/esales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
